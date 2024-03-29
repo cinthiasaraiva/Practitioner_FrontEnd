@@ -1,6 +1,14 @@
+body {
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #818181;
+    margin: 0;
+}
 
-header p{
-    color: #ffffff;
+header {
+    color: #92e0fd;
 }
 
 .carousel-caption{
